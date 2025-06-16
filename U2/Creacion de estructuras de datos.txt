@@ -1,0 +1,2 @@
+touch /tmp/lockA /tmp/lockB
+mkfifo /tmp/mi_fifo
