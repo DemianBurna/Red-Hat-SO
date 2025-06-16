@@ -1,4 +1,4 @@
-// lector_fifo.c
+// proceso_B.c
 #include <stdio.h>     // Libreria de Entrada/salida estándar en C: printf, scanf, fopen, fclose
 #include <fcntl.h>     // Libreria de Control de archivos: open, creat, flags como O_RDONLY, O_WRONLY
 #include <unistd.h>    // Libreria de Llamadas al sistema UNIX: read, write, close, fork, exec, etc.

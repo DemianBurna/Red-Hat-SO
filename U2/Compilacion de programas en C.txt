@@ -1,5 +1,5 @@
 sudo dnf install gcc -y
 
-gcc proceso_A.c -o proceso_A
-gcc proceso_B.c -o proceso_B
-gcc lector_fifo.c -o lector_fifo
+gcc Proceso_A.c -o proceso_A
+gcc Proceso_B.c -o proceso_B
+gcc Lector_fifo.c -o lector_fifo
